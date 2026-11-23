@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="5" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029679/1795357669078765_ACRS26_SL_A_VS_BAN_A_landscape_thumb.jpg" group-title="Sports",Bangladesh A vs Sri Lanka A
+https://tvsen5.aynaott.com/TnMn5kZz8/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.postimg.cc/hGVdbCWv/Star-Sports-1.jpg" group-title="Sports",STAR SPORTS 1 HD
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/5.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.postimg.cc/jjy7Q80w/Star-Sports-2.jpg" group-title="Sports",STAR SPORTS 2 HD
