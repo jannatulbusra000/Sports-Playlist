@@ -1,4 +1,4 @@
-#EXTM3U proxy="OFF" proxy-url="https://stream-through-spark.lovable.app/api/proxy?u="
+#EXTM3U proxy="ON" proxy-url="https://stream-through-spark.lovable.app/api/proxy?u="
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000029999/1795674097453377_ACRS26_SF_IND_A_vs_SL_A_today_landscape_thumb.jpg?w=500&q=low" group-title="Sports" proxy="ON",Sri Lanka A vs India A - 1st Semi Final
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/12.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGVdbCWv/Star-Sports-1.jpg" group-title="Sports" proxy="ON",STAR SPORTS 1 HD
